@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if SubTexture is rotated-->
+<TextureAtlas imagePath="mage_assets.png">
+  <SubTexture name="mageidle0001.png" x="0" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0002.png" x="1440" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0003.png" x="2880" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0004.png" x="4320" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0005.png" x="0" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0006.png" x="1440" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0007.png" x="2880" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0008.png" x="4320" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0009.png" x="0" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0010.png" x="0" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0011.png" x="0" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0012.png" x="0" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0013.png" x="0" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0014.png" x="1440" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0015.png" x="2880" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageidle0016.png" x="4320" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageright0001.png" x="1440" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageright0002.png" x="2880" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageright0003.png" x="4320" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageup0001.png" x="1440" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageup0002.png" x="1440" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageup0003.png" x="1440" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageleft0001.png" x="2880" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageleft0002.png" x="4320" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="mageleft0003.png" x="2880" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="magedown0001.png" x="4320" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="magedown0002.png" x="2880" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="magedown0003.png" x="4320" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+</TextureAtlas>

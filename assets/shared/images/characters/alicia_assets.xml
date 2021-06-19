@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if SubTexture is rotated-->
+<TextureAtlas imagePath="alicia_assets.png">
+  <SubTexture name="alicia-idle0001.png" x="0" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0002.png" x="0" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0003.png" x="0" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0004.png" x="0" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0005.png" x="0" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0006.png" x="0" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0007.png" x="0" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0008.png" x="1440" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0009.png" x="1440" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0010.png" x="1440" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0011.png" x="1440" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0012.png" x="1440" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0013.png" x="1440" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0014.png" x="1440" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0015.png" x="2880" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-idle0016.png" x="2880" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0001.png" x="2880" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0002.png" x="2880" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0003.png" x="2880" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0004.png" x="2880" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0005.png" x="2880" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0006.png" x="4320" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0007.png" x="2880" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-right0008.png" x="4320" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0001.png" x="4320" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0002.png" x="4320" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0003.png" x="4320" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0004.png" x="4320" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0005.png" x="4320" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0006.png" x="4320" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0007.png" x="4320" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-up0008.png" x="4320" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0001.png" x="5760" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0002.png" x="5760" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0003.png" x="5760" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0004.png" x="5760" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0005.png" x="5760" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0006.png" x="5760" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0007.png" x="5760" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-left0008.png" x="5760" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0001.png" x="5760" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0002.png" x="7200" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0003.png" x="7200" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0004.png" x="7200" y="1620" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0005.png" x="7200" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0006.png" x="7200" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0007.png" x="7200" y="2430" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-down0008.png" x="7200" y="3240" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0001.png" x="7200" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0002.png" x="7200" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0003.png" x="8640" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0004.png" x="8640" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0005.png" x="7200" y="4050" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0006.png" x="7200" y="4860" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0007.png" x="8640" y="0" width="1440" height="810" pX="0.5" pY="0.5"/>
+  <SubTexture name="alicia-blow0008.png" x="8640" y="810" width="1440" height="810" pX="0.5" pY="0.5"/>
+</TextureAtlas>
